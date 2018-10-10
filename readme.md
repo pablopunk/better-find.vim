@@ -15,7 +15,7 @@ Vim comes with a `:find` command that you can use to find and edit files in your
 I use [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'pablopunk/better-find'
+Plug 'pablopunk/better-find.vim'
 ```
 
 ## Related
