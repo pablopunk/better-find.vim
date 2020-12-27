@@ -1,14 +1,6 @@
 # Better find
 
-Vim comes with a `:find` command that you can use to find and edit files in your folder. The problem is that to make it work like a fuzzy finder (without the fuzzy part) you need a few tweaks. With this plugin you can do this:
-
-```vim
-:find *.js     " press <tab> here
-:find index.js " you get autocompletion
-```
-
-- Wildcard searches (`*.css`, `*Component*`)
-- Supports Subdirectories
+Use `<c-p>` or write `:Find` to start a file search on your project. It uses `fd` [command](https://github.com/sharkdp/fd) to displays results in the quickfix window (`:copen`).
 
 ## Install
 
