@@ -12,4 +12,5 @@ Plug 'pablopunk/better-find.vim'
 
 ## Related
 
+* [Better :grep](https://github.com/pablopunk/better-grep.vim)
 * [My dotfiles](https://github.com/pablopunk/dotfiles)
